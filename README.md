@@ -10,4 +10,4 @@ Skills: Python / Rust / Javascript / HTML / CSS
 - 🌱 I’m currently learning Web Development
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OniChan-Bakahttps://github.com/OniChan-Baka)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OniChan-Baka)
