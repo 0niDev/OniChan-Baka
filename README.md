@@ -7,8 +7,9 @@ Hey, I'm Farhan Ahmad, also known as Onichan. I'm a 16-year-old college student 
 
 Skills: Python / Rust / Javascript / HTML / CSS
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Web Development
+## Currently learning
+- Web Development
+- Rust
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OniChan-Baka&theme=react-dark)](https://github.com/OniChan-Baka/github-readme-activity-graph)
 
