@@ -9,5 +9,5 @@ Skills: Python / Rust / Javascript / HTML / CSS
 - 🔭 I’m currently working on this page.
 - 🌱 I’m currently learning Web Development
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=OniChan-Baka)
