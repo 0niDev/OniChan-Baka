@@ -5,7 +5,7 @@
 
 Farhan Ahmad here, aka Onichan. I'm a 16-year-old college student who dived into programming and computers at 13. Python's my go-to language, and I'm diving into HTML, CSS, and JS for creative expression and innovation. Intrigued by the intricacies of AI and ML, I keep things exciting by exploring diverse tech domains. 
 
-##Skills:
+## Skills:
 Python / Rust / Javascript / HTML / CSS
 
 ## Currently learning
