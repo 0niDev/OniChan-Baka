@@ -3,9 +3,10 @@
 ![I am Farhan Ahmad](github-header-image.png)
 
 
-Hey, I'm Farhan Ahmad, also known as Onichan. I'm a 16-year-old college student who caught the coding bug at 13. Python's my trusty sidekick, and I'm tinkering with HTML, CSS, and JS to add some creativity. I'm diving into the fascinating world of AI and ML, eager to unravel their complexities. Currently venturing into the realms of web development and rust.
+Farhan Ahmad here, aka Onichan. I'm a 16-year-old college student who dived into programming and computers at 13. Python's my go-to language, and I'm diving into HTML, CSS, and JS for creative expression and innovation. Intrigued by the intricacies of AI and ML, I keep things exciting by exploring diverse tech domains. 
 
-Skills: Python / Rust / Javascript / HTML / CSS
+##Skills:
+Python / Rust / Javascript / HTML / CSS
 
 ## Currently learning
 - Web Development
